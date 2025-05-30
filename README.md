@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shantanu Singh!
+# 👋 Hi there, I'm Laharika Kannareddy!
 
 I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
 
@@ -19,7 +19,7 @@ I'm a passionate developer with expertise in various domains including web devel
 
 
 ## Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-11b097241/)
-- Check out my projects on [GitHub](https://github.com/ShantanuSingh08)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in//)
+- Check out my projects on [GitHub](https://github.com/LaharikaS)
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
