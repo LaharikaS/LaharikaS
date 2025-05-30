@@ -1,25 +1,21 @@
 # 👋 Hi there, I'm Laharika Kannareddy!
 
-I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
-
+I am a Master’s student at Webster University, USA, with a strong passion for technology and development. My expertise spans Cybersecurity, Artificial Intelligence and Software Development. I am deeply committed to continuous learning and exploring emerging technologies, aiming to create impactful digital solutions and contribute meaningfully to the open-source community.
 
 ## Skills
+- C++
 - Python 🐍
-  - Flask 🌶️
-  - Streamlit 💻
 - Java ☕
 - Javascript
   - Reactjs ⚛️
   - Nextjs 💻
-- BootStrap, Tailwind CSS ✨
+- Tailwind CSS ✨
 - Linux 🐧
 - MongoDB 🍃
-- C
-- Unreal 🎮
 
 
 ## Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in//)
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/laharika-kannareddy-310278339/])
 - Check out my projects on [GitHub](https://github.com/LaharikaS)
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
