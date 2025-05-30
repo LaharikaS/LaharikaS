@@ -15,7 +15,7 @@ I am a Master’s student at Webster University, USA, with a strong passion for 
 
 
 ## Get in Touch
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/laharika-kannareddy-310278339/])
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/laharika-kannareddy-310278339/)
 - Check out my projects on [GitHub](https://github.com/LaharikaS)
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
